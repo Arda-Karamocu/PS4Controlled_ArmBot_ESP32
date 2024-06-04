@@ -5,7 +5,8 @@ Bu proje Cezeri Yeşil Teknoloji Mesleki ve Teknik Anadolu Lisesi öğrencisi Ar
 In this project I use PS4 controller and I adapt [Ujwal Nandanwar's](https://github.com/un0038998) PS3-controlled RobotArmCar project for PS4 controller and I add some new futures like signals stop lights and status led. If you have some problems with PS4 controller library you can watch [
 hash include electronics's video](https://youtu.be/dRysvxQfVDw?si=4Gacg5gsg6IlXpIF)
 
-Bu projede [Ujwal Nandanwar'ın](https://github.com/un0038998) PS3 kontrolcüsü ile kontrol edilen RobotArmCar projesini PS4 kontrolcüsü için uyarlayıp stop lambaları sinyaller ve durum ledi gibi birkaç yeni özellik ekledim.
+Bu projede [Ujwal Nandanwar'ın](https://github.com/un0038998) PS3 kontrolcüsü ile kontrol edilen RobotArmCar projesini PS4 kontrolcüsü için uyarlayıp stop lambaları sinyaller ve durum ledi gibi birkaç yeni özellik ekledim.Eğer PS4 controller kütüphanesi ile ilgili sorunlarınız var ise [
+hash include electronics'in videosunu](https://youtu.be/dRysvxQfVDw?si=4Gacg5gsg6IlXpIF)izleyebilirsiniz
 
 
 Resources(Kaynaklar):
