@@ -1,6 +1,6 @@
 # PS4Controlled_ArmBot_ESP32
-This project was made by Arda Karamoçu.
-Bu proje Arda Karamoçu tarafından yapılmıştır.
+This project was made by me.
+Bu proje benim tarafından yapılmıştır.
 
 In this project, I use a PS4 controller and I adapt [Ujwal Nandanwar's](https://github.com/un0038998) PS3-controlled RobotArmCar project for the PS4 controller and I add some new features like signals stop lights and status led. If you have some problems with the PS4 controller library you can watch [
 hash include electronics's video](https://youtu.be/dRysvxQfVDw?si=4Gacg5gsg6IlXpIF)
